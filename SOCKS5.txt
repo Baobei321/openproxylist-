@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-07-08 13:00:01 GMT+7
+SOCKS5 Proxy list updated at 2026-07-08 14:00:04 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,10 +10,10 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇩🇪 161.97.129.202:9060 688ms DE [Contabo GmbH]
-🇧🇷 187.63.9.62:63253 285ms BR [Gigalink de Nova Friburgo Solu��es em Rede Multimi]
+🇩🇪 161.97.129.202:9060 286ms DE [Contabo GmbH]
 🇧🇬 31.211.142.115:8192 446ms BG [5KOM]
 🇨🇦 184.95.220.42:1080 292ms CA [Fibrenoire Inc.]
-🇨🇦 184.95.235.194:1080 213ms CA [Fibrenoire Inc]
+🇷🇺 194.190.169.197:3701 174ms RU [Webmaster Agency Ltd]
+🇨🇦 184.95.235.194:1080 503ms CA [Fibrenoire Inc]
 🇻🇳 113.176.118.150:1080 77ms VN [VNPT]
 🇻🇳 113.160.188.21:1080 200ms VN [VietNam Post and Telecom Corporation]
